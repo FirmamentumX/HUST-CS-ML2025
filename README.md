@@ -27,3 +27,11 @@
 以下是SE-WRN-40-4的训练过程中 学习率变化 的可视化图
 
 ![SE-WRN-40-4](./Misc/learning_rate_rnn.png "SE-WRN-LearningRate")
+
+## 备注
+`python run_best.py`
+
+即可跑最好的CNN与RNN模型
+
+github上的版本所有模型参数都使用LFS
+（这背后是一个教训，本仓库为重置版）
