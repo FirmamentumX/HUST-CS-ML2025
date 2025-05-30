@@ -1,0 +1,161 @@
+2025-05-25 21:21:24,237 - INFO - Batch Size: 256
+2025-05-25 21:21:24,237 - INFO - Epochs: 125
+2025-05-25 21:21:24,237 - INFO - Model: CNN
+2025-05-25 21:21:24,237 - INFO - Optimizer: AdamW
+2025-05-25 21:21:24,237 - INFO - Loss Function: CrossEntropyLoss
+2025-05-25 21:21:24,238 - INFO - Device: cuda
+2025-05-25 21:21:24,238 - INFO - Training on 60000 samples
+2025-05-25 21:21:24,238 - INFO - Testing on 10000 samples
+2025-05-25 21:21:24,238 - INFO - Transform: Compose(
+    ToTensor()
+    Normalize(mean=(0.5,), std=(0.5,))
+)
+2025-05-25 21:21:24,238 - INFO - Initial Best Accuracy: 0.9000
+2025-05-25 21:21:26,085 - INFO - Epoch 1/125 Loss: 0.3646
+2025-05-25 21:21:26,352 - INFO - Epoch 1/125 CNN Accuracy: 0.8488
+2025-05-25 21:21:28,009 - INFO - Epoch 2/125 Loss: 0.3332
+2025-05-25 21:21:28,262 - INFO - Epoch 2/125 CNN Accuracy: 0.8672
+2025-05-25 21:21:29,913 - INFO - Epoch 3/125 Loss: 0.2738
+2025-05-25 21:21:30,166 - INFO - Epoch 3/125 CNN Accuracy: 0.8788
+2025-05-25 21:21:31,814 - INFO - Epoch 4/125 Loss: 0.2431
+2025-05-25 21:21:32,067 - INFO - Epoch 4/125 CNN Accuracy: 0.8880
+2025-05-25 21:21:33,716 - INFO - Epoch 5/125 Loss: 0.3553
+2025-05-25 21:21:33,969 - INFO - Epoch 5/125 CNN Accuracy: 0.8935
+2025-05-25 21:21:35,616 - INFO - Epoch 6/125 Loss: 0.2433
+2025-05-25 21:21:35,869 - INFO - Epoch 6/125 CNN Accuracy: 0.8967
+2025-05-25 21:21:37,518 - INFO - Epoch 7/125 Loss: 0.3010
+2025-05-25 21:21:37,771 - INFO - Epoch 7/125 CNN Accuracy: 0.9039
+2025-05-25 21:21:37,774 - INFO - Model saved to ./models/epoch_7_accuracy_0.9039_fashion_mnist_Icnn_2025-05-25T21-21-24.133838.pth
+2025-05-25 21:21:37,774 - INFO - Best model saved with accuracy: 0.9039
+2025-05-25 21:21:39,424 - INFO - Epoch 8/125 Loss: 0.0938
+2025-05-25 21:21:39,678 - INFO - Epoch 8/125 CNN Accuracy: 0.9066
+2025-05-25 21:21:39,680 - INFO - Model saved to ./models/epoch_8_accuracy_0.9066_fashion_mnist_Icnn_2025-05-25T21-21-24.133838.pth
+2025-05-25 21:21:39,680 - INFO - Best model saved with accuracy: 0.9066
+2025-05-25 21:21:41,326 - INFO - Epoch 9/125 Loss: 0.3048
+2025-05-25 21:21:41,580 - INFO - Epoch 9/125 CNN Accuracy: 0.9072
+2025-05-25 21:21:41,582 - INFO - Model saved to ./models/epoch_9_accuracy_0.9072_fashion_mnist_Icnn_2025-05-25T21-21-24.133838.pth
+2025-05-25 21:21:41,582 - INFO - Best model saved with accuracy: 0.9072
+2025-05-25 21:21:43,227 - INFO - Epoch 10/125 Loss: 0.2639
+2025-05-25 21:21:43,480 - INFO - Epoch 10/125 CNN Accuracy: 0.9111
+2025-05-25 21:21:43,482 - INFO - Model saved to ./models/epoch_10_accuracy_0.9111_fashion_mnist_Icnn_2025-05-25T21-21-24.133838.pth
+2025-05-25 21:21:43,482 - INFO - Best model saved with accuracy: 0.9111
+2025-05-25 21:21:45,098 - INFO - Epoch 11/125 Loss: 0.1159
+2025-05-25 21:21:45,351 - INFO - Epoch 11/125 CNN Accuracy: 0.9122
+2025-05-25 21:21:45,353 - INFO - Model saved to ./models/epoch_11_accuracy_0.9122_fashion_mnist_Icnn_2025-05-25T21-21-24.133838.pth
+2025-05-25 21:21:45,353 - INFO - Best model saved with accuracy: 0.9122
+2025-05-25 21:21:46,967 - INFO - Epoch 12/125 Loss: 0.2125
+2025-05-25 21:21:47,221 - INFO - Epoch 12/125 CNN Accuracy: 0.9139
+2025-05-25 21:21:47,223 - INFO - Model saved to ./models/epoch_12_accuracy_0.9139_fashion_mnist_Icnn_2025-05-25T21-21-24.133838.pth
+2025-05-25 21:21:47,223 - INFO - Best model saved with accuracy: 0.9139
+2025-05-25 21:21:48,833 - INFO - Epoch 13/125 Loss: 0.1214
+2025-05-25 21:21:49,085 - INFO - Epoch 13/125 CNN Accuracy: 0.9166
+2025-05-25 21:21:49,087 - INFO - Model saved to ./models/epoch_13_accuracy_0.9166_fashion_mnist_Icnn_2025-05-25T21-21-24.133838.pth
+2025-05-25 21:21:49,087 - INFO - Best model saved with accuracy: 0.9166
+2025-05-25 21:21:50,722 - INFO - Epoch 14/125 Loss: 0.1493
+2025-05-25 21:21:50,975 - INFO - Epoch 14/125 CNN Accuracy: 0.9147
+2025-05-25 21:21:52,598 - INFO - Epoch 15/125 Loss: 0.1703
+2025-05-25 21:21:52,852 - INFO - Epoch 15/125 CNN Accuracy: 0.9188
+2025-05-25 21:21:52,854 - INFO - Model saved to ./models/epoch_15_accuracy_0.9188_fashion_mnist_Icnn_2025-05-25T21-21-24.133838.pth
+2025-05-25 21:21:52,854 - INFO - Best model saved with accuracy: 0.9188
+2025-05-25 21:21:54,511 - INFO - Epoch 16/125 Loss: 0.1038
+2025-05-25 21:21:54,766 - INFO - Epoch 16/125 CNN Accuracy: 0.9179
+2025-05-25 21:21:56,416 - INFO - Epoch 17/125 Loss: 0.1494
+2025-05-25 21:21:56,670 - INFO - Epoch 17/125 CNN Accuracy: 0.9217
+2025-05-25 21:21:56,672 - INFO - Model saved to ./models/epoch_17_accuracy_0.9217_fashion_mnist_Icnn_2025-05-25T21-21-24.133838.pth
+2025-05-25 21:21:56,672 - INFO - Best model saved with accuracy: 0.9217
+2025-05-25 21:21:58,320 - INFO - Epoch 18/125 Loss: 0.0807
+2025-05-25 21:21:58,575 - INFO - Epoch 18/125 CNN Accuracy: 0.9232
+2025-05-25 21:21:58,577 - INFO - Model saved to ./models/epoch_18_accuracy_0.9232_fashion_mnist_Icnn_2025-05-25T21-21-24.133838.pth
+2025-05-25 21:21:58,577 - INFO - Best model saved with accuracy: 0.9232
+2025-05-25 21:22:00,223 - INFO - Epoch 19/125 Loss: 0.1737
+2025-05-25 21:22:00,478 - INFO - Epoch 19/125 CNN Accuracy: 0.9170
+2025-05-25 21:22:02,128 - INFO - Epoch 20/125 Loss: 0.2227
+2025-05-25 21:22:02,383 - INFO - Epoch 20/125 CNN Accuracy: 0.9247
+2025-05-25 21:22:02,385 - INFO - Model saved to ./models/epoch_20_accuracy_0.9247_fashion_mnist_Icnn_2025-05-25T21-21-24.133838.pth
+2025-05-25 21:22:02,385 - INFO - Best model saved with accuracy: 0.9247
+2025-05-25 21:22:04,033 - INFO - Epoch 21/125 Loss: 0.0863
+2025-05-25 21:22:04,286 - INFO - Epoch 21/125 CNN Accuracy: 0.9253
+2025-05-25 21:22:04,288 - INFO - Model saved to ./models/epoch_21_accuracy_0.9253_fashion_mnist_Icnn_2025-05-25T21-21-24.133838.pth
+2025-05-25 21:22:04,288 - INFO - Best model saved with accuracy: 0.9253
+2025-05-25 21:22:05,936 - INFO - Epoch 22/125 Loss: 0.1476
+2025-05-25 21:22:06,190 - INFO - Epoch 22/125 CNN Accuracy: 0.9251
+2025-05-25 21:22:07,837 - INFO - Epoch 23/125 Loss: 0.0802
+2025-05-25 21:22:08,091 - INFO - Epoch 23/125 CNN Accuracy: 0.9263
+2025-05-25 21:22:08,093 - INFO - Model saved to ./models/epoch_23_accuracy_0.9263_fashion_mnist_Icnn_2025-05-25T21-21-24.133838.pth
+2025-05-25 21:22:08,093 - INFO - Best model saved with accuracy: 0.9263
+2025-05-25 21:22:09,740 - INFO - Epoch 24/125 Loss: 0.1062
+2025-05-25 21:22:09,994 - INFO - Epoch 24/125 CNN Accuracy: 0.9253
+2025-05-25 21:22:11,646 - INFO - Epoch 25/125 Loss: 0.0817
+2025-05-25 21:22:11,898 - INFO - Epoch 25/125 CNN Accuracy: 0.9268
+2025-05-25 21:22:11,900 - INFO - Model saved to ./models/epoch_25_accuracy_0.9268_fashion_mnist_Icnn_2025-05-25T21-21-24.133838.pth
+2025-05-25 21:22:11,900 - INFO - Best model saved with accuracy: 0.9268
+2025-05-25 21:22:13,545 - INFO - Epoch 26/125 Loss: 0.1198
+2025-05-25 21:22:13,798 - INFO - Epoch 26/125 CNN Accuracy: 0.9262
+2025-05-25 21:22:15,443 - INFO - Epoch 27/125 Loss: 0.0734
+2025-05-25 21:22:15,696 - INFO - Epoch 27/125 CNN Accuracy: 0.9200
+2025-05-25 21:22:17,342 - INFO - Epoch 28/125 Loss: 0.1015
+2025-05-25 21:22:17,594 - INFO - Epoch 28/125 CNN Accuracy: 0.9263
+2025-05-25 21:22:19,241 - INFO - Epoch 29/125 Loss: 0.0989
+2025-05-25 21:22:19,493 - INFO - Epoch 29/125 CNN Accuracy: 0.9289
+2025-05-25 21:22:19,495 - INFO - Model saved to ./models/epoch_29_accuracy_0.9289_fashion_mnist_Icnn_2025-05-25T21-21-24.133838.pth
+2025-05-25 21:22:19,495 - INFO - Best model saved with accuracy: 0.9289
+2025-05-25 21:22:21,148 - INFO - Epoch 30/125 Loss: 0.1523
+2025-05-25 21:22:21,402 - INFO - Epoch 30/125 CNN Accuracy: 0.9259
+2025-05-25 21:22:23,050 - INFO - Epoch 31/125 Loss: 0.0573
+2025-05-25 21:22:23,304 - INFO - Epoch 31/125 CNN Accuracy: 0.9265
+2025-05-25 21:22:24,953 - INFO - Epoch 32/125 Loss: 0.1024
+2025-05-25 21:22:25,207 - INFO - Epoch 32/125 CNN Accuracy: 0.9229
+2025-05-25 21:22:26,855 - INFO - Epoch 33/125 Loss: 0.1736
+2025-05-25 21:22:27,109 - INFO - Epoch 33/125 CNN Accuracy: 0.9281
+2025-05-25 21:22:28,756 - INFO - Epoch 34/125 Loss: 0.0369
+2025-05-25 21:22:29,009 - INFO - Epoch 34/125 CNN Accuracy: 0.9265
+2025-05-25 21:22:30,664 - INFO - Epoch 35/125 Loss: 0.0881
+2025-05-25 21:22:30,915 - INFO - Epoch 35/125 CNN Accuracy: 0.9280
+2025-05-25 21:22:32,569 - INFO - Epoch 36/125 Loss: 0.0965
+2025-05-25 21:22:32,824 - INFO - Epoch 36/125 CNN Accuracy: 0.9288
+2025-05-25 21:22:34,472 - INFO - Epoch 37/125 Loss: 0.1238
+2025-05-25 21:22:34,726 - INFO - Epoch 37/125 CNN Accuracy: 0.9276
+2025-05-25 21:22:36,376 - INFO - Epoch 38/125 Loss: 0.1198
+2025-05-25 21:22:36,629 - INFO - Epoch 38/125 CNN Accuracy: 0.9278
+2025-05-25 21:22:38,278 - INFO - Epoch 39/125 Loss: 0.0992
+2025-05-25 21:22:38,531 - INFO - Epoch 39/125 CNN Accuracy: 0.9292
+2025-05-25 21:22:38,533 - INFO - Model saved to ./models/epoch_39_accuracy_0.9292_fashion_mnist_Icnn_2025-05-25T21-21-24.133838.pth
+2025-05-25 21:22:38,533 - INFO - Best model saved with accuracy: 0.9292
+2025-05-25 21:22:40,183 - INFO - Epoch 40/125 Loss: 0.0568
+2025-05-25 21:22:40,434 - INFO - Epoch 40/125 CNN Accuracy: 0.9287
+2025-05-25 21:22:42,082 - INFO - Epoch 41/125 Loss: 0.0340
+2025-05-25 21:22:42,335 - INFO - Epoch 41/125 CNN Accuracy: 0.9284
+2025-05-25 21:22:43,987 - INFO - Epoch 42/125 Loss: 0.0412
+2025-05-25 21:22:44,241 - INFO - Epoch 42/125 CNN Accuracy: 0.9270
+2025-05-25 21:22:45,892 - INFO - Epoch 43/125 Loss: 0.1235
+2025-05-25 21:22:46,146 - INFO - Epoch 43/125 CNN Accuracy: 0.9271
+2025-05-25 21:22:47,818 - INFO - Epoch 44/125 Loss: 0.0613
+2025-05-25 21:22:48,075 - INFO - Epoch 44/125 CNN Accuracy: 0.9276
+2025-05-25 21:22:49,763 - INFO - Epoch 45/125 Loss: 0.0222
+2025-05-25 21:22:50,021 - INFO - Epoch 45/125 CNN Accuracy: 0.9270
+2025-05-25 21:22:51,711 - INFO - Epoch 46/125 Loss: 0.0398
+2025-05-25 21:22:51,968 - INFO - Epoch 46/125 CNN Accuracy: 0.9274
+2025-05-25 21:22:53,657 - INFO - Epoch 47/125 Loss: 0.0781
+2025-05-25 21:22:53,915 - INFO - Epoch 47/125 CNN Accuracy: 0.9277
+2025-05-25 21:22:55,599 - INFO - Epoch 48/125 Loss: 0.0435
+2025-05-25 21:22:55,857 - INFO - Epoch 48/125 CNN Accuracy: 0.9268
+2025-05-25 21:22:57,541 - INFO - Epoch 49/125 Loss: 0.0254
+2025-05-25 21:22:57,799 - INFO - Epoch 49/125 CNN Accuracy: 0.9292
+2025-05-25 21:22:59,486 - INFO - Epoch 50/125 Loss: 0.0364
+2025-05-25 21:22:59,744 - INFO - Epoch 50/125 CNN Accuracy: 0.9285
+2025-05-25 21:23:01,429 - INFO - Epoch 51/125 Loss: 0.0218
+2025-05-25 21:23:01,685 - INFO - Epoch 51/125 CNN Accuracy: 0.9270
+2025-05-25 21:23:03,365 - INFO - Epoch 52/125 Loss: 0.0258
+2025-05-25 21:23:03,621 - INFO - Epoch 52/125 CNN Accuracy: 0.9281
+2025-05-25 21:23:05,306 - INFO - Epoch 53/125 Loss: 0.0122
+2025-05-25 21:23:05,563 - INFO - Epoch 53/125 CNN Accuracy: 0.9269
+2025-05-25 21:23:07,249 - INFO - Epoch 54/125 Loss: 0.0177
+2025-05-25 21:23:07,507 - INFO - Epoch 54/125 CNN Accuracy: 0.9290
+2025-05-25 21:23:09,173 - INFO - Epoch 55/125 Loss: 0.0580
+2025-05-25 21:23:09,427 - INFO - Epoch 55/125 CNN Accuracy: 0.9284
+2025-05-25 21:23:11,044 - INFO - Epoch 56/125 Loss: 0.0229
+2025-05-25 21:23:11,298 - INFO - Epoch 56/125 CNN Accuracy: 0.9271
+2025-05-25 21:23:12,915 - INFO - Epoch 57/125 Loss: 0.0422
+2025-05-25 21:23:13,168 - INFO - Epoch 57/125 CNN Accuracy: 0.9253
+2025-05-25 21:23:14,786 - INFO - Epoch 58/125 Loss: 0.0234
+2025-05-25 21:23:15,039 - INFO - Epoch 58/125 CNN Accuracy: 0.9285

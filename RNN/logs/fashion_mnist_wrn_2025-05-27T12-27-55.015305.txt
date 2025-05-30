@@ -1,0 +1,26 @@
+2025-05-27 12:27:55,248 - INFO - Training started at 2025-05-27T12:27:55.248941
+2025-05-27 12:27:55,249 - INFO - Batch size: 128
+2025-05-27 12:27:55,249 - INFO - Epochs: 200
+2025-05-27 12:27:55,249 - INFO - Device: cuda
+2025-05-27 12:27:55,249 - INFO - Model: WideResNet
+2025-05-27 12:27:55,249 - INFO - Optimizer: SGD
+2025-05-27 12:27:55,249 - INFO - Loss Function: CrossEntropyLoss
+2025-05-27 12:27:55,249 - INFO - Device: cuda
+2025-05-27 12:27:55,249 - INFO - Training on 60000 samples
+2025-05-27 12:27:55,249 - INFO - Testing on 10000 samples
+2025-05-27 12:27:55,249 - INFO - Original Best accuracy: 0.9341
+2025-05-27 12:27:55,249 - INFO - Training started at 2025-05-27T12:27:55.249196
+2025-05-27 12:28:08,156 - INFO - Epoch 1/200 RNN Accuracy: 0.2033
+2025-05-27 12:28:08,157 - INFO - Epoch 1/200 Loss: 2.1843 Accuracy: 0.2033
+2025-05-27 12:28:20,399 - INFO - Epoch 2/200 RNN Accuracy: 0.2154
+2025-05-27 12:28:20,399 - INFO - Epoch 2/200 Loss: 2.0733 Accuracy: 0.2154
+2025-05-27 12:28:32,663 - INFO - Epoch 3/200 RNN Accuracy: 0.2705
+2025-05-27 12:28:32,663 - INFO - Epoch 3/200 Loss: 1.9360 Accuracy: 0.2705
+2025-05-27 12:28:44,928 - INFO - Epoch 4/200 RNN Accuracy: 0.3034
+2025-05-27 12:28:44,928 - INFO - Epoch 4/200 Loss: 1.9501 Accuracy: 0.3034
+2025-05-27 12:28:57,193 - INFO - Epoch 5/200 RNN Accuracy: 0.3463
+2025-05-27 12:28:57,193 - INFO - Epoch 5/200 Loss: 1.9758 Accuracy: 0.3463
+2025-05-27 12:29:09,460 - INFO - Epoch 6/200 RNN Accuracy: 0.3664
+2025-05-27 12:29:09,460 - INFO - Epoch 6/200 Loss: 1.8051 Accuracy: 0.3664
+2025-05-27 12:29:21,727 - INFO - Epoch 7/200 RNN Accuracy: 0.3744
+2025-05-27 12:29:21,727 - INFO - Epoch 7/200 Loss: 1.8029 Accuracy: 0.3744

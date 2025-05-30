@@ -1,0 +1,9 @@
+2025-05-25 19:40:53,518 - INFO - Batch Size: 128
+2025-05-25 19:40:53,518 - INFO - Epochs: 30
+2025-05-25 19:40:53,518 - INFO - Model: CNN
+2025-05-25 19:40:53,518 - INFO - Optimizer: Adam
+2025-05-25 19:40:53,518 - INFO - Loss Function: CrossEntropyLoss
+2025-05-25 19:40:53,518 - INFO - Device: cuda
+2025-05-25 19:40:53,518 - INFO - Training on 60000 samples
+2025-05-25 19:40:53,518 - INFO - Testing on 10000 samples
+2025-05-25 19:40:55,677 - INFO - Epoch 1/30 Loss: 0.3631

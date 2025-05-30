@@ -1,0 +1,252 @@
+2025-05-25 21:49:13,673 - INFO - Training started at 2025-05-25T21:49:13.673388
+2025-05-25 21:49:13,673 - INFO - Batch size: 256
+2025-05-25 21:49:13,673 - INFO - Epochs: 100
+2025-05-25 21:49:13,673 - INFO - Device: cuda
+2025-05-25 21:49:13,673 - INFO - Model: ResNet
+2025-05-25 21:49:13,673 - INFO - Optimizer: AdamW
+2025-05-25 21:49:13,673 - INFO - Loss Function: CrossEntropyLoss
+2025-05-25 21:49:13,673 - INFO - Device: cuda
+2025-05-25 21:49:13,673 - INFO - Training on 60000 samples
+2025-05-25 21:49:13,673 - INFO - Testing on 10000 samples
+2025-05-25 21:49:13,673 - INFO - Original Best accuracy: 0.0000
+2025-05-25 21:49:13,673 - INFO - Training started at 2025-05-25T21:49:13.673639
+2025-05-25 21:49:15,839 - INFO - Epoch 1/100 RNN Accuracy: 0.6510
+2025-05-25 21:49:15,839 - INFO - Epoch 1/100 Loss: 0.3920 Accuracy: 0.6510
+2025-05-25 21:49:15,841 - INFO - Model saved to ./models/epoch_1_accuracy_0.6510_fashion_mnist_rnn_2025-05-25T21-49-13.513025.pth
+2025-05-25 21:49:15,841 - INFO - Epoch 1/100 Model saved with accuracy: 0.6510
+2025-05-25 21:49:17,844 - INFO - Epoch 2/100 RNN Accuracy: 0.7770
+2025-05-25 21:49:17,844 - INFO - Epoch 2/100 Loss: 0.5240 Accuracy: 0.7770
+2025-05-25 21:49:17,845 - INFO - Model saved to ./models/epoch_2_accuracy_0.7770_fashion_mnist_rnn_2025-05-25T21-49-13.513025.pth
+2025-05-25 21:49:17,846 - INFO - Epoch 2/100 Model saved with accuracy: 0.7770
+2025-05-25 21:49:19,802 - INFO - Epoch 3/100 RNN Accuracy: 0.8217
+2025-05-25 21:49:19,802 - INFO - Epoch 3/100 Loss: 0.4513 Accuracy: 0.8217
+2025-05-25 21:49:19,803 - INFO - Model saved to ./models/epoch_3_accuracy_0.8217_fashion_mnist_rnn_2025-05-25T21-49-13.513025.pth
+2025-05-25 21:49:19,803 - INFO - Epoch 3/100 Model saved with accuracy: 0.8217
+2025-05-25 21:49:21,741 - INFO - Epoch 4/100 RNN Accuracy: 0.8501
+2025-05-25 21:49:21,741 - INFO - Epoch 4/100 Loss: 0.4116 Accuracy: 0.8501
+2025-05-25 21:49:21,743 - INFO - Model saved to ./models/epoch_4_accuracy_0.8501_fashion_mnist_rnn_2025-05-25T21-49-13.513025.pth
+2025-05-25 21:49:21,743 - INFO - Epoch 4/100 Model saved with accuracy: 0.8501
+2025-05-25 21:49:23,569 - INFO - Epoch 5/100 RNN Accuracy: 0.8627
+2025-05-25 21:49:23,570 - INFO - Epoch 5/100 Loss: 0.4089 Accuracy: 0.8627
+2025-05-25 21:49:23,571 - INFO - Model saved to ./models/epoch_5_accuracy_0.8627_fashion_mnist_rnn_2025-05-25T21-49-13.513025.pth
+2025-05-25 21:49:23,571 - INFO - Epoch 5/100 Model saved with accuracy: 0.8627
+2025-05-25 21:49:25,408 - INFO - Epoch 6/100 RNN Accuracy: 0.8633
+2025-05-25 21:49:25,408 - INFO - Epoch 6/100 Loss: 0.2948 Accuracy: 0.8633
+2025-05-25 21:49:25,409 - INFO - Model saved to ./models/epoch_6_accuracy_0.8633_fashion_mnist_rnn_2025-05-25T21-49-13.513025.pth
+2025-05-25 21:49:25,410 - INFO - Epoch 6/100 Model saved with accuracy: 0.8633
+2025-05-25 21:49:27,237 - INFO - Epoch 7/100 RNN Accuracy: 0.8828
+2025-05-25 21:49:27,238 - INFO - Epoch 7/100 Loss: 0.3650 Accuracy: 0.8828
+2025-05-25 21:49:27,239 - INFO - Model saved to ./models/epoch_7_accuracy_0.8828_fashion_mnist_rnn_2025-05-25T21-49-13.513025.pth
+2025-05-25 21:49:27,239 - INFO - Epoch 7/100 Model saved with accuracy: 0.8828
+2025-05-25 21:49:29,065 - INFO - Epoch 8/100 RNN Accuracy: 0.8629
+2025-05-25 21:49:29,065 - INFO - Epoch 8/100 Loss: 0.3088 Accuracy: 0.8629
+2025-05-25 21:49:31,003 - INFO - Epoch 9/100 RNN Accuracy: 0.8949
+2025-05-25 21:49:31,003 - INFO - Epoch 9/100 Loss: 0.3540 Accuracy: 0.8949
+2025-05-25 21:49:31,004 - INFO - Model saved to ./models/epoch_9_accuracy_0.8949_fashion_mnist_rnn_2025-05-25T21-49-13.513025.pth
+2025-05-25 21:49:31,004 - INFO - Epoch 9/100 Model saved with accuracy: 0.8949
+2025-05-25 21:49:32,930 - INFO - Epoch 10/100 RNN Accuracy: 0.8916
+2025-05-25 21:49:32,930 - INFO - Epoch 10/100 Loss: 0.1685 Accuracy: 0.8916
+2025-05-25 21:49:34,868 - INFO - Epoch 11/100 RNN Accuracy: 0.8930
+2025-05-25 21:49:34,868 - INFO - Epoch 11/100 Loss: 0.4378 Accuracy: 0.8930
+2025-05-25 21:49:36,806 - INFO - Epoch 12/100 RNN Accuracy: 0.9034
+2025-05-25 21:49:36,806 - INFO - Epoch 12/100 Loss: 0.3104 Accuracy: 0.9034
+2025-05-25 21:49:36,807 - INFO - Model saved to ./models/epoch_12_accuracy_0.9034_fashion_mnist_rnn_2025-05-25T21-49-13.513025.pth
+2025-05-25 21:49:36,807 - INFO - Epoch 12/100 Model saved with accuracy: 0.9034
+2025-05-25 21:49:38,744 - INFO - Epoch 13/100 RNN Accuracy: 0.8958
+2025-05-25 21:49:38,744 - INFO - Epoch 13/100 Loss: 0.3518 Accuracy: 0.8958
+2025-05-25 21:49:40,682 - INFO - Epoch 14/100 RNN Accuracy: 0.8974
+2025-05-25 21:49:40,682 - INFO - Epoch 14/100 Loss: 0.1775 Accuracy: 0.8974
+2025-05-25 21:49:42,620 - INFO - Epoch 15/100 RNN Accuracy: 0.9055
+2025-05-25 21:49:42,620 - INFO - Epoch 15/100 Loss: 0.2169 Accuracy: 0.9055
+2025-05-25 21:49:42,622 - INFO - Model saved to ./models/epoch_15_accuracy_0.9055_fashion_mnist_rnn_2025-05-25T21-49-13.513025.pth
+2025-05-25 21:49:42,622 - INFO - Epoch 15/100 Model saved with accuracy: 0.9055
+2025-05-25 21:49:44,564 - INFO - Epoch 16/100 RNN Accuracy: 0.9091
+2025-05-25 21:49:44,564 - INFO - Epoch 16/100 Loss: 0.1470 Accuracy: 0.9091
+2025-05-25 21:49:44,566 - INFO - Model saved to ./models/epoch_16_accuracy_0.9091_fashion_mnist_rnn_2025-05-25T21-49-13.513025.pth
+2025-05-25 21:49:44,566 - INFO - Epoch 16/100 Model saved with accuracy: 0.9091
+2025-05-25 21:49:46,506 - INFO - Epoch 17/100 RNN Accuracy: 0.8963
+2025-05-25 21:49:46,506 - INFO - Epoch 17/100 Loss: 0.2317 Accuracy: 0.8963
+2025-05-25 21:49:48,442 - INFO - Epoch 18/100 RNN Accuracy: 0.9025
+2025-05-25 21:49:48,442 - INFO - Epoch 18/100 Loss: 0.1848 Accuracy: 0.9025
+2025-05-25 21:49:50,380 - INFO - Epoch 19/100 RNN Accuracy: 0.9039
+2025-05-25 21:49:50,380 - INFO - Epoch 19/100 Loss: 0.2072 Accuracy: 0.9039
+2025-05-25 21:49:52,319 - INFO - Epoch 20/100 RNN Accuracy: 0.9104
+2025-05-25 21:49:52,319 - INFO - Epoch 20/100 Loss: 0.1976 Accuracy: 0.9104
+2025-05-25 21:49:52,320 - INFO - Model saved to ./models/epoch_20_accuracy_0.9104_fashion_mnist_rnn_2025-05-25T21-49-13.513025.pth
+2025-05-25 21:49:52,320 - INFO - Epoch 20/100 Model saved with accuracy: 0.9104
+2025-05-25 21:49:54,257 - INFO - Epoch 21/100 RNN Accuracy: 0.9173
+2025-05-25 21:49:54,257 - INFO - Epoch 21/100 Loss: 0.1264 Accuracy: 0.9173
+2025-05-25 21:49:54,259 - INFO - Model saved to ./models/epoch_21_accuracy_0.9173_fashion_mnist_rnn_2025-05-25T21-49-13.513025.pth
+2025-05-25 21:49:54,259 - INFO - Epoch 21/100 Model saved with accuracy: 0.9173
+2025-05-25 21:49:56,196 - INFO - Epoch 22/100 RNN Accuracy: 0.8999
+2025-05-25 21:49:56,196 - INFO - Epoch 22/100 Loss: 0.1702 Accuracy: 0.8999
+2025-05-25 21:49:58,136 - INFO - Epoch 23/100 RNN Accuracy: 0.9075
+2025-05-25 21:49:58,136 - INFO - Epoch 23/100 Loss: 0.2785 Accuracy: 0.9075
+2025-05-25 21:50:00,075 - INFO - Epoch 24/100 RNN Accuracy: 0.9198
+2025-05-25 21:50:00,075 - INFO - Epoch 24/100 Loss: 0.1824 Accuracy: 0.9198
+2025-05-25 21:50:00,077 - INFO - Model saved to ./models/epoch_24_accuracy_0.9198_fashion_mnist_rnn_2025-05-25T21-49-13.513025.pth
+2025-05-25 21:50:00,077 - INFO - Epoch 24/100 Model saved with accuracy: 0.9198
+2025-05-25 21:50:02,015 - INFO - Epoch 25/100 RNN Accuracy: 0.9158
+2025-05-25 21:50:02,015 - INFO - Epoch 25/100 Loss: 0.2615 Accuracy: 0.9158
+2025-05-25 21:50:03,955 - INFO - Epoch 26/100 RNN Accuracy: 0.9163
+2025-05-25 21:50:03,955 - INFO - Epoch 26/100 Loss: 0.1831 Accuracy: 0.9163
+2025-05-25 21:50:05,893 - INFO - Epoch 27/100 RNN Accuracy: 0.9238
+2025-05-25 21:50:05,893 - INFO - Epoch 27/100 Loss: 0.1617 Accuracy: 0.9238
+2025-05-25 21:50:05,895 - INFO - Model saved to ./models/epoch_27_accuracy_0.9238_fashion_mnist_rnn_2025-05-25T21-49-13.513025.pth
+2025-05-25 21:50:05,895 - INFO - Epoch 27/100 Model saved with accuracy: 0.9238
+2025-05-25 21:50:07,843 - INFO - Epoch 28/100 RNN Accuracy: 0.9187
+2025-05-25 21:50:07,843 - INFO - Epoch 28/100 Loss: 0.2698 Accuracy: 0.9187
+2025-05-25 21:50:09,782 - INFO - Epoch 29/100 RNN Accuracy: 0.9178
+2025-05-25 21:50:09,782 - INFO - Epoch 29/100 Loss: 0.1101 Accuracy: 0.9178
+2025-05-25 21:50:11,721 - INFO - Epoch 30/100 RNN Accuracy: 0.9212
+2025-05-25 21:50:11,722 - INFO - Epoch 30/100 Loss: 0.2385 Accuracy: 0.9212
+2025-05-25 21:50:13,665 - INFO - Epoch 31/100 RNN Accuracy: 0.9158
+2025-05-25 21:50:13,665 - INFO - Epoch 31/100 Loss: 0.0972 Accuracy: 0.9158
+2025-05-25 21:50:15,603 - INFO - Epoch 32/100 RNN Accuracy: 0.9169
+2025-05-25 21:50:15,603 - INFO - Epoch 32/100 Loss: 0.1528 Accuracy: 0.9169
+2025-05-25 21:50:17,541 - INFO - Epoch 33/100 RNN Accuracy: 0.9200
+2025-05-25 21:50:17,541 - INFO - Epoch 33/100 Loss: 0.0786 Accuracy: 0.9200
+2025-05-25 21:50:19,483 - INFO - Epoch 34/100 RNN Accuracy: 0.9182
+2025-05-25 21:50:19,484 - INFO - Epoch 34/100 Loss: 0.1115 Accuracy: 0.9182
+2025-05-25 21:50:21,422 - INFO - Epoch 35/100 RNN Accuracy: 0.9172
+2025-05-25 21:50:21,422 - INFO - Epoch 35/100 Loss: 0.0640 Accuracy: 0.9172
+2025-05-25 21:50:23,360 - INFO - Epoch 36/100 RNN Accuracy: 0.9186
+2025-05-25 21:50:23,360 - INFO - Epoch 36/100 Loss: 0.1200 Accuracy: 0.9186
+2025-05-25 21:50:25,298 - INFO - Epoch 37/100 RNN Accuracy: 0.9216
+2025-05-25 21:50:25,298 - INFO - Epoch 37/100 Loss: 0.1187 Accuracy: 0.9216
+2025-05-25 21:50:27,237 - INFO - Epoch 38/100 RNN Accuracy: 0.9207
+2025-05-25 21:50:27,237 - INFO - Epoch 38/100 Loss: 0.1211 Accuracy: 0.9207
+2025-05-25 21:50:29,176 - INFO - Epoch 39/100 RNN Accuracy: 0.9200
+2025-05-25 21:50:29,176 - INFO - Epoch 39/100 Loss: 0.0741 Accuracy: 0.9200
+2025-05-25 21:50:31,112 - INFO - Epoch 40/100 RNN Accuracy: 0.9226
+2025-05-25 21:50:31,113 - INFO - Epoch 40/100 Loss: 0.0865 Accuracy: 0.9226
+2025-05-25 21:50:33,052 - INFO - Epoch 41/100 RNN Accuracy: 0.9197
+2025-05-25 21:50:33,052 - INFO - Epoch 41/100 Loss: 0.0639 Accuracy: 0.9197
+2025-05-25 21:50:34,991 - INFO - Epoch 42/100 RNN Accuracy: 0.9209
+2025-05-25 21:50:34,991 - INFO - Epoch 42/100 Loss: 0.0792 Accuracy: 0.9209
+2025-05-25 21:50:36,928 - INFO - Epoch 43/100 RNN Accuracy: 0.9139
+2025-05-25 21:50:36,928 - INFO - Epoch 43/100 Loss: 0.0649 Accuracy: 0.9139
+2025-05-25 21:50:38,815 - INFO - Epoch 44/100 RNN Accuracy: 0.9216
+2025-05-25 21:50:38,815 - INFO - Epoch 44/100 Loss: 0.0943 Accuracy: 0.9216
+2025-05-25 21:50:40,646 - INFO - Epoch 45/100 RNN Accuracy: 0.9222
+2025-05-25 21:50:40,646 - INFO - Epoch 45/100 Loss: 0.0928 Accuracy: 0.9222
+2025-05-25 21:50:42,570 - INFO - Epoch 46/100 RNN Accuracy: 0.9198
+2025-05-25 21:50:42,570 - INFO - Epoch 46/100 Loss: 0.0333 Accuracy: 0.9198
+2025-05-25 21:50:44,509 - INFO - Epoch 47/100 RNN Accuracy: 0.9154
+2025-05-25 21:50:44,509 - INFO - Epoch 47/100 Loss: 0.0527 Accuracy: 0.9154
+2025-05-25 21:50:46,447 - INFO - Epoch 48/100 RNN Accuracy: 0.9208
+2025-05-25 21:50:46,447 - INFO - Epoch 48/100 Loss: 0.1095 Accuracy: 0.9208
+2025-05-25 21:50:48,389 - INFO - Epoch 49/100 RNN Accuracy: 0.9158
+2025-05-25 21:50:48,389 - INFO - Epoch 49/100 Loss: 0.1576 Accuracy: 0.9158
+2025-05-25 21:50:50,332 - INFO - Epoch 50/100 RNN Accuracy: 0.9238
+2025-05-25 21:50:50,332 - INFO - Epoch 50/100 Loss: 0.0442 Accuracy: 0.9238
+2025-05-25 21:50:52,270 - INFO - Epoch 51/100 RNN Accuracy: 0.9217
+2025-05-25 21:50:52,270 - INFO - Epoch 51/100 Loss: 0.0446 Accuracy: 0.9217
+2025-05-25 21:50:54,209 - INFO - Epoch 52/100 RNN Accuracy: 0.9187
+2025-05-25 21:50:54,210 - INFO - Epoch 52/100 Loss: 0.0487 Accuracy: 0.9187
+2025-05-25 21:50:56,150 - INFO - Epoch 53/100 RNN Accuracy: 0.9234
+2025-05-25 21:50:56,150 - INFO - Epoch 53/100 Loss: 0.0650 Accuracy: 0.9234
+2025-05-25 21:50:58,087 - INFO - Epoch 54/100 RNN Accuracy: 0.9195
+2025-05-25 21:50:58,087 - INFO - Epoch 54/100 Loss: 0.0496 Accuracy: 0.9195
+2025-05-25 21:51:00,000 - INFO - Epoch 55/100 RNN Accuracy: 0.9189
+2025-05-25 21:51:00,000 - INFO - Epoch 55/100 Loss: 0.0263 Accuracy: 0.9189
+2025-05-25 21:51:01,953 - INFO - Epoch 56/100 RNN Accuracy: 0.9199
+2025-05-25 21:51:01,953 - INFO - Epoch 56/100 Loss: 0.0472 Accuracy: 0.9199
+2025-05-25 21:51:03,909 - INFO - Epoch 57/100 RNN Accuracy: 0.9112
+2025-05-25 21:51:03,909 - INFO - Epoch 57/100 Loss: 0.0531 Accuracy: 0.9112
+2025-05-25 21:51:05,858 - INFO - Epoch 58/100 RNN Accuracy: 0.9203
+2025-05-25 21:51:05,858 - INFO - Epoch 58/100 Loss: 0.0232 Accuracy: 0.9203
+2025-05-25 21:51:07,808 - INFO - Epoch 59/100 RNN Accuracy: 0.9192
+2025-05-25 21:51:07,809 - INFO - Epoch 59/100 Loss: 0.0390 Accuracy: 0.9192
+2025-05-25 21:51:09,761 - INFO - Epoch 60/100 RNN Accuracy: 0.9114
+2025-05-25 21:51:09,761 - INFO - Epoch 60/100 Loss: 0.0213 Accuracy: 0.9114
+2025-05-25 21:51:11,712 - INFO - Epoch 61/100 RNN Accuracy: 0.9220
+2025-05-25 21:51:11,712 - INFO - Epoch 61/100 Loss: 0.0240 Accuracy: 0.9220
+2025-05-25 21:51:13,661 - INFO - Epoch 62/100 RNN Accuracy: 0.9195
+2025-05-25 21:51:13,661 - INFO - Epoch 62/100 Loss: 0.0465 Accuracy: 0.9195
+2025-05-25 21:51:15,611 - INFO - Epoch 63/100 RNN Accuracy: 0.9216
+2025-05-25 21:51:15,612 - INFO - Epoch 63/100 Loss: 0.0506 Accuracy: 0.9216
+2025-05-25 21:51:17,562 - INFO - Epoch 64/100 RNN Accuracy: 0.9170
+2025-05-25 21:51:17,562 - INFO - Epoch 64/100 Loss: 0.0100 Accuracy: 0.9170
+2025-05-25 21:51:19,461 - INFO - Epoch 65/100 RNN Accuracy: 0.9213
+2025-05-25 21:51:19,462 - INFO - Epoch 65/100 Loss: 0.0193 Accuracy: 0.9213
+2025-05-25 21:51:21,359 - INFO - Epoch 66/100 RNN Accuracy: 0.9168
+2025-05-25 21:51:21,359 - INFO - Epoch 66/100 Loss: 0.0300 Accuracy: 0.9168
+2025-05-25 21:51:23,260 - INFO - Epoch 67/100 RNN Accuracy: 0.9196
+2025-05-25 21:51:23,260 - INFO - Epoch 67/100 Loss: 0.0420 Accuracy: 0.9196
+2025-05-25 21:51:25,160 - INFO - Epoch 68/100 RNN Accuracy: 0.9155
+2025-05-25 21:51:25,160 - INFO - Epoch 68/100 Loss: 0.1071 Accuracy: 0.9155
+2025-05-25 21:51:27,061 - INFO - Epoch 69/100 RNN Accuracy: 0.9204
+2025-05-25 21:51:27,061 - INFO - Epoch 69/100 Loss: 0.0037 Accuracy: 0.9204
+2025-05-25 21:51:28,961 - INFO - Epoch 70/100 RNN Accuracy: 0.9242
+2025-05-25 21:51:28,961 - INFO - Epoch 70/100 Loss: 0.0207 Accuracy: 0.9242
+2025-05-25 21:51:28,963 - INFO - Model saved to ./models/epoch_70_accuracy_0.9242_fashion_mnist_rnn_2025-05-25T21-49-13.513025.pth
+2025-05-25 21:51:28,963 - INFO - Epoch 70/100 Model saved with accuracy: 0.9242
+2025-05-25 21:51:30,914 - INFO - Epoch 71/100 RNN Accuracy: 0.9205
+2025-05-25 21:51:30,914 - INFO - Epoch 71/100 Loss: 0.0084 Accuracy: 0.9205
+2025-05-25 21:51:32,863 - INFO - Epoch 72/100 RNN Accuracy: 0.9169
+2025-05-25 21:51:32,863 - INFO - Epoch 72/100 Loss: 0.0828 Accuracy: 0.9169
+2025-05-25 21:51:34,777 - INFO - Epoch 73/100 RNN Accuracy: 0.9177
+2025-05-25 21:51:34,778 - INFO - Epoch 73/100 Loss: 0.0120 Accuracy: 0.9177
+2025-05-25 21:51:36,727 - INFO - Epoch 74/100 RNN Accuracy: 0.9164
+2025-05-25 21:51:36,727 - INFO - Epoch 74/100 Loss: 0.0152 Accuracy: 0.9164
+2025-05-25 21:51:38,669 - INFO - Epoch 75/100 RNN Accuracy: 0.9151
+2025-05-25 21:51:38,669 - INFO - Epoch 75/100 Loss: 0.0798 Accuracy: 0.9151
+2025-05-25 21:51:40,620 - INFO - Epoch 76/100 RNN Accuracy: 0.9185
+2025-05-25 21:51:40,620 - INFO - Epoch 76/100 Loss: 0.0028 Accuracy: 0.9185
+2025-05-25 21:51:42,571 - INFO - Epoch 77/100 RNN Accuracy: 0.9251
+2025-05-25 21:51:42,572 - INFO - Epoch 77/100 Loss: 0.0207 Accuracy: 0.9251
+2025-05-25 21:51:42,573 - INFO - Model saved to ./models/epoch_77_accuracy_0.9251_fashion_mnist_rnn_2025-05-25T21-49-13.513025.pth
+2025-05-25 21:51:42,573 - INFO - Epoch 77/100 Model saved with accuracy: 0.9251
+2025-05-25 21:51:44,521 - INFO - Epoch 78/100 RNN Accuracy: 0.9226
+2025-05-25 21:51:44,522 - INFO - Epoch 78/100 Loss: 0.0135 Accuracy: 0.9226
+2025-05-25 21:51:46,470 - INFO - Epoch 79/100 RNN Accuracy: 0.9193
+2025-05-25 21:51:46,470 - INFO - Epoch 79/100 Loss: 0.0456 Accuracy: 0.9193
+2025-05-25 21:51:48,418 - INFO - Epoch 80/100 RNN Accuracy: 0.9214
+2025-05-25 21:51:48,418 - INFO - Epoch 80/100 Loss: 0.0394 Accuracy: 0.9214
+2025-05-25 21:51:50,366 - INFO - Epoch 81/100 RNN Accuracy: 0.9234
+2025-05-25 21:51:50,367 - INFO - Epoch 81/100 Loss: 0.0773 Accuracy: 0.9234
+2025-05-25 21:51:52,316 - INFO - Epoch 82/100 RNN Accuracy: 0.9185
+2025-05-25 21:51:52,316 - INFO - Epoch 82/100 Loss: 0.0248 Accuracy: 0.9185
+2025-05-25 21:51:54,267 - INFO - Epoch 83/100 RNN Accuracy: 0.9133
+2025-05-25 21:51:54,267 - INFO - Epoch 83/100 Loss: 0.0116 Accuracy: 0.9133
+2025-05-25 21:51:56,227 - INFO - Epoch 84/100 RNN Accuracy: 0.9215
+2025-05-25 21:51:56,227 - INFO - Epoch 84/100 Loss: 0.0189 Accuracy: 0.9215
+2025-05-25 21:51:58,188 - INFO - Epoch 85/100 RNN Accuracy: 0.9208
+2025-05-25 21:51:58,188 - INFO - Epoch 85/100 Loss: 0.0045 Accuracy: 0.9208
+2025-05-25 21:52:00,166 - INFO - Epoch 86/100 RNN Accuracy: 0.9132
+2025-05-25 21:52:00,166 - INFO - Epoch 86/100 Loss: 0.0691 Accuracy: 0.9132
+2025-05-25 21:52:02,120 - INFO - Epoch 87/100 RNN Accuracy: 0.9231
+2025-05-25 21:52:02,120 - INFO - Epoch 87/100 Loss: 0.0357 Accuracy: 0.9231
+2025-05-25 21:52:04,072 - INFO - Epoch 88/100 RNN Accuracy: 0.9218
+2025-05-25 21:52:04,072 - INFO - Epoch 88/100 Loss: 0.0005 Accuracy: 0.9218
+2025-05-25 21:52:06,022 - INFO - Epoch 89/100 RNN Accuracy: 0.9215
+2025-05-25 21:52:06,022 - INFO - Epoch 89/100 Loss: 0.0270 Accuracy: 0.9215
+2025-05-25 21:52:07,980 - INFO - Epoch 90/100 RNN Accuracy: 0.9197
+2025-05-25 21:52:07,980 - INFO - Epoch 90/100 Loss: 0.0008 Accuracy: 0.9197
+2025-05-25 21:52:09,930 - INFO - Epoch 91/100 RNN Accuracy: 0.9196
+2025-05-25 21:52:09,930 - INFO - Epoch 91/100 Loss: 0.0050 Accuracy: 0.9196
+2025-05-25 21:52:11,884 - INFO - Epoch 92/100 RNN Accuracy: 0.9192
+2025-05-25 21:52:11,884 - INFO - Epoch 92/100 Loss: 0.0093 Accuracy: 0.9192
+2025-05-25 21:52:13,839 - INFO - Epoch 93/100 RNN Accuracy: 0.9165
+2025-05-25 21:52:13,839 - INFO - Epoch 93/100 Loss: 0.1157 Accuracy: 0.9165
+2025-05-25 21:52:15,795 - INFO - Epoch 94/100 RNN Accuracy: 0.9199
+2025-05-25 21:52:15,795 - INFO - Epoch 94/100 Loss: 0.0036 Accuracy: 0.9199
+2025-05-25 21:52:17,746 - INFO - Epoch 95/100 RNN Accuracy: 0.9185
+2025-05-25 21:52:17,746 - INFO - Epoch 95/100 Loss: 0.0248 Accuracy: 0.9185
+2025-05-25 21:52:19,697 - INFO - Epoch 96/100 RNN Accuracy: 0.9245
+2025-05-25 21:52:19,697 - INFO - Epoch 96/100 Loss: 0.0227 Accuracy: 0.9245
+2025-05-25 21:52:21,650 - INFO - Epoch 97/100 RNN Accuracy: 0.9214
+2025-05-25 21:52:21,650 - INFO - Epoch 97/100 Loss: 0.0292 Accuracy: 0.9214
+2025-05-25 21:52:23,604 - INFO - Epoch 98/100 RNN Accuracy: 0.9201
+2025-05-25 21:52:23,604 - INFO - Epoch 98/100 Loss: 0.0215 Accuracy: 0.9201
+2025-05-25 21:52:25,556 - INFO - Epoch 99/100 RNN Accuracy: 0.9177
+2025-05-25 21:52:25,556 - INFO - Epoch 99/100 Loss: 0.0370 Accuracy: 0.9177
+2025-05-25 21:52:27,524 - INFO - Epoch 100/100 RNN Accuracy: 0.9267
+2025-05-25 21:52:27,524 - INFO - Epoch 100/100 Loss: 0.0007 Accuracy: 0.9267
+2025-05-25 21:52:27,525 - INFO - Model saved to ./models/epoch_100_accuracy_0.9267_fashion_mnist_rnn_2025-05-25T21-49-13.513025.pth
+2025-05-25 21:52:27,525 - INFO - Epoch 100/100 Model saved with accuracy: 0.9267
+2025-05-25 21:52:27,826 - INFO - Training finished at 2025-05-25T21:52:27.826870
+2025-05-25 21:52:27,826 - INFO - Final RNN Accuracy: 0.9267
+2025-05-25 21:52:27,826 - INFO - Training finished at 2025-05-25T21:52:27.826931
+2025-05-25 21:52:27,826 - INFO - Final RNN Accuracy: 0.9267
